@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Hobgoblin",
+  "base_artist": "CLC",
+  "createdAt": "2026-03-13T09:45:50.492231Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hobgoblin",
+      "artist": "CLC",
+      "has_synced": true,
+      "path": "select/01_Hobgoblin_CLC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HOBGOBLIN",
+      "artist": "Witchouse 40k",
+      "has_synced": true,
+      "path": "select/02_HOBGOBLIN_Witchouse_40k.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hobgoblin (도깨비)",
+      "artist": "CLC",
+      "has_synced": true,
+      "path": "select/03_Hobgoblin_(도깨비)_CLC.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hobgoblin",
+      "artist": "CLC",
+      "has_synced": true,
+      "path": "select/04_Hobgoblin_CLC.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HOBGOBLIN (Paused)",
+      "artist": "Witchouse 40k",
+      "has_synced": true,
+      "path": "select/05_HOBGOBLIN_(Paused)_Witchouse_40k.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hobgoblin",
+      "artist": "CLC",
+      "has_synced": false,
+      "path": "select/pl_01_Hobgoblin_CLC.txt"
+    }
+  ]
+}
